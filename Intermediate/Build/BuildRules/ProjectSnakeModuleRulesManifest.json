@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\gamedev UE\\ProjectSnake\\Source\\ProjectSnake\\ProjectSnake.Build.cs",
+		"D:\\gamedev UE\\ProjectSnake\\Source\\ProjectSnake.Target.cs",
+		"D:\\gamedev UE\\ProjectSnake\\Source\\ProjectSnakeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
