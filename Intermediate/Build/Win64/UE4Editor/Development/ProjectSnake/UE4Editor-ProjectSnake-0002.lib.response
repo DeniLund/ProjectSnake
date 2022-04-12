@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectSnake-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\ProjectSnakeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\Food.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\Interactable.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\PlayerPawnBase.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\ProjectSnake.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\ProjectSnakeGameModeBase.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\SnakeBase.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\SnakeElementBase.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\Food.gen.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\Interactable.gen.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\PlayerPawnBase.gen.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\ProjectSnake.init.gen.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\ProjectSnakeGameModeBase.gen.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\SnakeBase.gen.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\SnakeElementBase.gen.cpp.obj"
+"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\Default.rc2.res"
+/OUT:"D:\gamedev UE\ProjectSnake\Intermediate\Build\Win64\UE4Editor\Development\ProjectSnake\UE4Editor-ProjectSnake-0002.lib"
